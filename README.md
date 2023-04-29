@@ -1,2 +1,2 @@
-# DragonX-v2-Safewalk-update
-DragonX v2 Eaglercraft 1.8.8 Hacked Client (Click GUI + Safewalk Update)
+UwUClient v1 Public Beta
+UwUClient is a 1.8.8 Eaglercraft Hacked Client built for zentic.cc
